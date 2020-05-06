@@ -1,2 +1,2 @@
 # prateeksingh.github.io
-Website for self
+Personal Landing Page for self
